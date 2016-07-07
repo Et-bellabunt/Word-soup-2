@@ -1,1 +1,1 @@
-# Word-soup-2
+#This code is a basic starter code in python using Notepad++ to try to create a random assortment of letters in a square/rectangle pattern, the conditions for the final project will be that it will have to be at least an 20 by 20 of letters each one being randomly selected and independent of the other. 
